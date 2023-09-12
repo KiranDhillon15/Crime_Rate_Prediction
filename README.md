@@ -1,1 +1,3 @@
 # Crime_Rate_Prediction
+
+A Random Forest classifier is used to create a classification model to predict the kind of major crime that has taken place based on various factors along with neighbourhood, division, time of crime, month, year and so on.In Toronto between 2014-2019, a detailed information including where and when the crime is committed and various other factors are included in our dataset and containing categorical data. The process involves in testing the data using both OneHot and numeric encoding. The model that uses Random Forest Classifier and One Hot Encoder shows a slight increase in accuracy, as indicated by an F1-score of 0.65
